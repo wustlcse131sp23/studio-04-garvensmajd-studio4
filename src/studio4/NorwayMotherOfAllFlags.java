@@ -31,6 +31,10 @@ public class NorwayMotherOfAllFlags {
 	public static void france() {
 		
 		// TODO
+		StdDraw.clear();
+		
+		
+		
 	}
 
 	public static void indonesia() {
